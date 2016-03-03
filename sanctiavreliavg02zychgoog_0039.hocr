@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./sanctiavreliavg02zychgoog_0039.png"; bbox 0 0 3396 4932; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 799 2097 829 2162">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 799 2097 829 2162">
+     <span class='ocr_line' id='line_1_1' title="bbox 799 2097 829 2162; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 799 2097 829 2162; x_wconf 94' lang='grc' dir='ltr'>Ι.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 449 2284 1304 2453">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 449 2284 1304 2453">
+     <span class='ocr_line' id='line_1_2' title="bbox 449 2284 1304 2453; baseline 0 -32"><span class='ocrx_word' id='word_1_2' title='bbox 449 2298 495 2421; x_wconf 84' lang='lat' dir='ltr'>S.</span> <span class='ocrx_word' id='word_1_3' title='bbox 543 2297 769 2421; x_wconf 74' lang='lat' dir='ltr'>Aureli</span> <span class='ocrx_word' id='word_1_4' title='bbox 814 2297 1183 2453; x_wconf 75' lang='lat' dir='ltr'>Augustini</span> <span class='ocrx_word' id='word_1_5' title='bbox 1245 2284 1248 2288; x_wconf 68' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1303 2327 1304 2330; x_wconf 8' lang='grc' dir='ltr'>ψ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 482 2573 1144 2667">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 482 2573 1144 2667">
+     <span class='ocr_line' id='line_1_3' title="bbox 482 2573 1144 2667; baseline -0.002 -20"><span class='ocrx_word' id='word_1_7' title='bbox 482 2573 528 2648; x_wconf 87' lang='lat' dir='ltr'>de</span> <span class='ocrx_word' id='word_1_8' title='bbox 551 2575 774 2667; x_wconf 72' lang='lat' dir='ltr'>perfectione</span> <span class='ocrx_word' id='word_1_9' title='bbox 792 2574 953 2648; x_wconf 76' lang='lat' dir='ltr'>iustitiae</span> <span class='ocrx_word' id='word_1_10' title='bbox 972 2575 1144 2647; x_wconf 78' lang='lat' dir='ltr'><strong>hominis,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1702 4932">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1702 4932">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1702 4932; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1702 4932; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

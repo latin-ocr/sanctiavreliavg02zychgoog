@@ -1,0 +1,28 @@
+L = codex Lugdunensis 524 s. VIII ex.
+
+P = codex Parisinus 9544 s. VIIII.
+
+,D = codex olim Sti. Dionysii nunc Paris. 2095 s. VIIII.
+R = codex Remensis 379 s. VIIII.
+
+V = codex Vossii Leidensis 98 s. VIIII.
+
+0 = codex bibl. cinit. Sarni-Omer 254 s. VIIII-X.
+
+B = codex Britannici Musei 18332 s. X.
+
+0 = codex olixn Corbeiensis nunc Parisinus 12210 s. X.
+K = codex Carnutensis 48 s. X-XI.
+
+N = codex Cluniacensis 31 (Parisinus Nouv. acqu. lat. 1449) s. Χ-ΧΙ.
+β = codex Bernensis 176 s. XI.
+
+b = editio princeps Basileae 1506 apud Io. Amerbachium.
+
+d = editio Benediciiuorum a S. Mauro 1696,
+
+Eoo. = Eugippii excerpta cx operibus s. Augustini p. 938 sqq. ed.
+P. Knoell.
+
+ 
+
